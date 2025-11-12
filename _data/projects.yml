@@ -1,0 +1,23 @@
+- title: "Portfolio Transfer"
+  link: "/portfolio-transfer.html"
+  image: "/img/portfolio_transfer.jpg"
+
+- title: "Customer Portal"
+  link: "/customer-portal.html"
+  image: "/img/customer_portal.jpg"
+
+- title: "Remote Sales Signature"
+  link: "/remote-sales-signature.html"
+  image: "/img/rss.jpg"
+
+- title: "Financial Alteration Automation"
+  link: "/alteration-automation.html"
+  image: "/img/financial_alteration.jpg"
+
+- title: "Bancassurance Data Integration Platform"
+  link: "/bancassurance-data-integration.html"
+  image: "/img/rest_api.jpg"
+
+- title: "Web Illustration"
+  link: "/web-illustration.html"
+  image: "/img/web_illustration.jpg"
